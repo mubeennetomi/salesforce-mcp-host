@@ -1,8 +1,9 @@
 {
   "name": "salesforce-mcp-host",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
-    "start": "salesforce-mcp"
+    "start": "node start.mjs"
   },
   "dependencies": {
     "@salesforce/mcp": "latest"
