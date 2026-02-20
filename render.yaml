@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: salesforce-mcp
+    env: node
+    plan: free
+    buildCommand: npm install
+    startCommand: npm start

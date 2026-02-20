@@ -1,0 +1,7 @@
+{
+  "name": "salesforce-mcp-host",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
